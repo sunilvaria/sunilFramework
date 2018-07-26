@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7B810608210A657800A97AE4 /* CartFile in Resources */ = {isa = PBXBuildFile; fileRef = 7B810607210A657800A97AE4 /* CartFile */; };
 		7BEAEE2F210A54FD00163ECB /* sunilFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BEAEE25210A54FD00163ECB /* sunilFramework.framework */; };
 		7BEAEE34210A54FD00163ECB /* sunilFrameworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BEAEE33210A54FD00163ECB /* sunilFrameworkTests.swift */; };
 		7BEAEE36210A54FD00163ECB /* sunilFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 7BEAEE28210A54FD00163ECB /* sunilFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -25,7 +24,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		7B810607210A657800A97AE4 /* CartFile */ = {isa = PBXFileReference; lastKnownFileType = text; path = CartFile; sourceTree = "<group>"; };
 		7BEAEE25210A54FD00163ECB /* sunilFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = sunilFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BEAEE28210A54FD00163ECB /* sunilFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sunilFramework.h; sourceTree = "<group>"; };
 		7BEAEE29210A54FD00163ECB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -76,7 +74,6 @@
 			isa = PBXGroup;
 			children = (
 				7BEAEE28210A54FD00163ECB /* sunilFramework.h */,
-				7B810607210A657800A97AE4 /* CartFile */,
 				7BEAEE3F210A558C00163ECB /* myClass.swift */,
 				7BEAEE29210A54FD00163ECB /* Info.plist */,
 			);
@@ -186,7 +183,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7B810608210A657800A97AE4 /* CartFile in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

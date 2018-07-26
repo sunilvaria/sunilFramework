@@ -20,6 +20,20 @@
                ReferencedContainer = "container:sunilFramework.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "7BEAEE2D210A54FD00163ECB"
+               BuildableName = "sunilFrameworkTests.xctest"
+               BlueprintName = "sunilFrameworkTests"
+               ReferencedContainer = "container:sunilFramework.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
