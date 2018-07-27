@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7B8DFDA3210B75FF000B3E9D /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7BEAEE29210A54FD00163ECB /* Info.plist */; };
 		7BEAEE2F210A54FD00163ECB /* sunilFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BEAEE25210A54FD00163ECB /* sunilFramework.framework */; };
 		7BEAEE34210A54FD00163ECB /* sunilFrameworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BEAEE33210A54FD00163ECB /* sunilFrameworkTests.swift */; };
 		7BEAEE36210A54FD00163ECB /* sunilFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 7BEAEE28210A54FD00163ECB /* sunilFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -183,6 +184,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B8DFDA3210B75FF000B3E9D /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
